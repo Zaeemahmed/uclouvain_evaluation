@@ -1,0 +1,23 @@
+# python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# virtual environment
+venv/
+
+# dist
+dist/
+
+# build
+build/
+
+# coverage
+coverage/
+
+# logs
+logs/
+
